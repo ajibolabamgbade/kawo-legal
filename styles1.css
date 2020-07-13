@@ -1,0 +1,64 @@
+.navbar-default {
+    background-color: #3c0606;
+    border-color: none;
+    border-radius: 0px;
+    height: 100px;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+}
+.placeholder {
+    min-height: 87vh;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+    padding-top: 40px;
+}
+.navbar-default .navbar-nav>li>a:hover {
+	color: white;
+	border: 1px solid red;
+}
+.input-group {
+	padding-top: 20px;
+	padding-left: 200px;
+	padding-right: 100px;
+}
+.input-group-addon {
+	background-color: skyblue;
+}
+.navbar-brand>img {
+    display: block;
+    padding-left: 50px;
+    width: 300px;
+}
+.good {
+	padding-top: 40px;
+}
+.goodness{
+	background-color: blue;
+    color: white;
+}
+h4 {
+	padding-top: 30px;
+	color: white;
+	padding-left: 70px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+.footer {
+	background-color: #3c0606;
+	margin-top: 20px;
+	
+}
+.Rights {
+	color: white;
+	padding-top: 5px;
+}
+.list-inline {
+	float: right;
+	color: #8a8afb;
+	font-size: 20px;
+}
